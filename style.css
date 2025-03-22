@@ -927,6 +927,16 @@ body {
         transition: 0.5s;
     }
 
+    .traitym {
+        width: 75px;
+        height: 75px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 100;
+        animation: nhiptim 2s forwards 15s;
+    }
+
     .icon {
         position: absolute;
         width: 50px;
